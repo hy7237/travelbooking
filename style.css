@@ -1,0 +1,70 @@
+ body{
+    
+    font-family: 'Poppins', sans-serif;
+    background-color:azure;
+     
+ }
+ .h-font
+ {
+    font-family: 'Merienda', cursive;
+ }
+ .custom-bg
+ {
+   background-color:blue;
+ }
+  
+ .custom-bg:hover
+ {
+   background-color: black;
+ }
+ .availabitlity
+ {
+   margin-top: -50px;
+   z-index: 2;
+   position: relative;
+ }
+ @media screen and (max-width:575px) {
+   .availabitlity
+   {
+      margin-top: 25px;
+      padding:0 35px;
+   }
+   
+ }
+ .popular-destination
+ {
+  margin-top: 2px;
+  margin-bottom: 20px;
+  text-align: center;
+ }
+ .container-Aboutus
+ {
+  display: flex;
+  align-items: center;
+  justify-content: center
+ }
+ .text
+ {
+  font-size: 20px;
+  padding-left: 20px;
+ }
+  .copyright
+  {
+    text-align: center;
+  }
+  .discover-body
+  {
+     
+    background-color:azure;
+  }
+  .discover{
+    text-align:center;
+    
+    padding-top: 25px;
+  }
+  .Beach-destination
+  {
+    padding-left: 30px;
+    margin-top: 20px;
+  }
+  
